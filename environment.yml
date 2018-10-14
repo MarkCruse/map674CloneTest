@@ -1,4 +1,4 @@
-name: exercise-01-2
+name: clone-test-exercise-01-2
 channels:
   - defaults
 dependencies:
